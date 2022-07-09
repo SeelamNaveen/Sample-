@@ -1,0 +1,4 @@
+Tomcat:-
+ps -ef |grep tomcat --> to check the status of tomcat
+tomcatup --> to start tomcat server
+ps -ef |grep tomcat --> to check the status of tomcat
